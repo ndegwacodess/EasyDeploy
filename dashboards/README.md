@@ -1,7 +1,4 @@
-Based on your requirements, here's my suggested navbar structure with nested pages and their purposes:
-
 ## Main Navigation Structure
-
 ### 🏠 **Dashboard**
 - **Overview** - Real-time server metrics, active deployments, system health
 - **Analytics** - Network flows, resource usage graphs, performance trends
@@ -9,7 +6,7 @@ Based on your requirements, here's my suggested navbar structure with nested pag
 
 ### 🚀 **Deployments**
 - **Active Projects** - List of running applications with status
-- **Deploy New** - Visual deployment interface (drag-drop, YAML editor)
+- **Deploy New** - Visual deployment interface (Acces to the folder stutures(specific folder where project reside vs all for all), YAML editor)
 - **Templates** - Pre-configured deployment templates
 - **Terminal** - Direct CLI access for advanced users
 - **Build Logs** - Real-time deployment and build logs
@@ -67,5 +64,3 @@ Based on your requirements, here's my suggested navbar structure with nested pag
 4. **Monitoring** separates ongoing observation from active deployment
 5. **Global Search** - Add a search bar that can find deployments, logs, settings across the platform
 6. **Quick Actions** - Floating action button for "Deploy New App" since it's likely a primary user action
-
-Would you like me to elaborate on any specific section or discuss the internal page layouts for any of these main areas?
