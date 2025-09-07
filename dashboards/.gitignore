@@ -12,9 +12,8 @@ dist
 dist-ssr
 *.local
 .env
-package-lock.json
 ConceptNote.md
-
+package-lock.json
 
 # Editor directories and files
 .vscode/*
