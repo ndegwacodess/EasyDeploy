@@ -1,7 +1,10 @@
 import React from 'react'
+import Login from "../Pages/Auth/Login"
 
 export default function AuthApp() {
   return (
-    <div>AuthApp</div>
+    <div>
+      <Login/>
+    </div>
   )
 }
